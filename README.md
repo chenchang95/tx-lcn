@@ -1,4 +1,6 @@
 # tx-lcn
+官网地址：http://www.txlcn.org
+
 分布式事务tx-lcn的初步了解
 
 1. 需要安装Consul
